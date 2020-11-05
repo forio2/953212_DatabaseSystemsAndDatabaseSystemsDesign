@@ -1,0 +1,8 @@
+model/Snake.class
+model/Direction.class
+controller/JarLauncher.class
+model/Food.class
+view/Platform.class
+controller/GameLoop.class
+view/Score.class
+controller/Launcher.class

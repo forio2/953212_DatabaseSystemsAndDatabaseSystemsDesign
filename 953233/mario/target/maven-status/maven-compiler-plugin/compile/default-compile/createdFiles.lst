@@ -1,0 +1,9 @@
+model/Keys.class
+controller/DrawingLoop.class
+model/AnimatedSprite.class
+controller/JarLauncher.class
+view/Platform.class
+controller/GameLoop.class
+model/Character.class
+view/Score.class
+controller/Launcher.class
